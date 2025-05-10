@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+.landingAContainer{
+  background: radial-gradient(circle,rgba(93, 14, 65, 1) 0%, rgba(255, 32, 78, 1) 100%);
+}
+.landingATitleContainer{
+  background-color: #00224D;
+}
+.landingATitle{
+  color: #FF204E
+}
